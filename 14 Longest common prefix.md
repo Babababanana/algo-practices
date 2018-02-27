@@ -13,6 +13,7 @@ Write a function to find the longest common prefix string amongst an array of st
 ### 2. Solutions
 #### 2.1 Solution 1
 ##### Analysis
+Steps:
 1. Find the common prefix string of two strings
 2. Always keep the shortest prefix
 3. Keep the shorter string of the two and compare it with next string in the list
